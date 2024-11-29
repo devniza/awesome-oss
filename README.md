@@ -35,7 +35,7 @@ This is **NOT** meant to be a place for:
 - [IBM](https://github.com/IBM)
 - [OSSGeo](https://www-.osgeo.org/projects/)
 - [Godaddy](https://github.com/godaddy)
-- [CloudFare](https://cloudflare.github.io/)
+- [CloudFlare](https://cloudflare.github.io/)
 - [DIDI](https://github.com/didi)
 - [Alibaba](http://alibaba.github.io/)
 - [Artsy](https://artsy.github.io/open-source/)
